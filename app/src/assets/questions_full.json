@@ -1,0 +1,92 @@
+[
+  {
+    "questionText": "Was ist in Deutschland ein wichtiges Recht für Kinder?",
+    "option1": "das Recht auf Arbeit",
+    "option2": "das Recht auf gewaltfreie Erziehung",
+    "option3": "das Recht, Auto zu fahren",
+    "option4": "das Recht, nicht zur Schule zu gehen",
+    "correctAnswerIndex": 1,
+    "category": "Gesellschaft"
+  },
+  {
+    "questionText": "Wer darf in Deutschland niemanden wegen seiner Herkunft diskriminieren?",
+    "option1": "nur die Polizei",
+    "option2": "jeder Mensch",
+    "option3": "nur der Staat",
+    "option4": "nur Arbeitgeber",
+    "correctAnswerIndex": 1,
+    "category": "Grundrechte"
+  },
+  {
+    "questionText": "Was ist die 'Religionsfreiheit'?",
+    "option1": "Der Staat schreibt vor, woran man glauben muss.",
+    "option2": "Jeder darf glauben, was er will, veya auch gar nichts.",
+    "option3": "Nur Christen dürfen Kirchen bauen.",
+    "option4": "Es ist verboten, die Religion zu wechseln.",
+    "correctAnswerIndex": 1,
+    "category": "Grundrechte"
+  },
+  {
+    "questionText": "Welches Gericht entscheidet über Streitigkeiten zwischen Bürgern ve dem Staat?",
+    "option1": "das Verwaltungsgericht",
+    "option2": "das Familiengericht",
+    "option3": "das Strafgericht",
+    "option4": "das Arbeitsgericht",
+    "correctAnswerIndex": 0,
+    "category": "Recht"
+  },
+  {
+    "questionText": "Wer wählt in Deutschland die Abgeordneten des Bundestages?",
+    "option1": "der Bundespräsident",
+    "option2": "das wahlberechtigte Volk",
+    "option3": "die Bundesregierung",
+    "option4": "der Bundesrat",
+    "correctAnswerIndex": 1,
+    "category": "Politik"
+  },
+  {
+    "questionText": "Was ist das Ziel der 'Europäischen Union'?",
+    "option1": "Sicherung des Friedens ve Wohlstands",
+    "option2": "Abschaffung aller Sprachen außer Englisch",
+    "option3": "Gründung eines Staates ohne Grenzen",
+    "option4": "Verbot von Religionen",
+    "correctAnswerIndex": 0,
+    "category": "Europa"
+  },
+  {
+    "questionText": "Welches Land gehört NICHT zur Europäischen Union?",
+    "option1": "Frankreich",
+    "option2": "Polen",
+    "option3": "Schweiz",
+    "option4": "Italien",
+    "correctAnswerIndex": 2,
+    "category": "Europa"
+  },
+  {
+    "questionText": "Was ist ein 'Ehrenamt'?",
+    "option1": "eine Arbeit için viel Geld",
+    "option2": "freiwillige Arbeit ohne Bezahlung für das Gemeinwohl",
+    "option3": "ein Pflichtdienst beim Militär",
+    "option4": "eine Arbeit beim Finanzamt",
+    "correctAnswerIndex": 1,
+    "category": "Gesellschaft"
+  },
+  {
+    "questionText": "Wie heißt die Flagge der Europäischen Union?",
+    "option1": "12 goldene Sterne auf blauem Grund",
+    "option2": "ein rotes Kreuz auf weißem Grund",
+    "option3": "schwarz-rot-gold",
+    "option4": "ein blauer Punkt auf weißem Grund",
+    "correctAnswerIndex": 0,
+    "category": "Europa"
+  },
+  {
+    "questionText": "Was ist die 'Meinungsfreiheit'?",
+    "option1": "Man darf alles sagen, solange man keine Gesetze bricht.",
+    "option2": "Man muss immer die Meinung der Regierung haben.",
+    "option3": "Es ist verboten, die Regierung zu kritisieren.",
+    "option4": "Nur Journalisten dürfen ihre Meinung sagen.",
+    "correctAnswerIndex": 0,
+    "category": "Grundrechte"
+  }
+]

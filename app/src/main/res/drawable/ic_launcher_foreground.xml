@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Flashcard Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,35 L78,35 C80.2,35 82,36.8 82,39 L82,69 C82,71.2 80.2,73 78,73 L30,73 C27.8,73 26,71.2 26,69 L26,39 C26,36.8 27.8,35 30,35 Z" />
+
+    <!-- Flag Strip - Black -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M30,42 L78,42 L78,46 L30,46 Z" />
+
+    <!-- Flag Strip - Red -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M30,46 L78,46 L78,50 L30,50 Z" />
+
+    <!-- Flag Strip - Gold -->
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M30,50 L78,50 L78,54 L30,54 Z" />
+
+    <!-- Speaker Icon (TTS) -->
+    <path
+        android:fillColor="#555555"
+        android:pathData="M65,58 L65,66 L68,66 L72,70 L72,54 L68,58 Z" />
+    <path
+        android:fillColor="#555555"
+        android:pathData="M74,59 C75.5,60.5 75.5,63.5 74,65 L75.5,66.5 C77.5,64.5 77.5,59.5 75.5,57.5 Z" />
+
+    <!-- Flip Arrow -->
+    <path
+        android:fillColor="#0061A4"
+        android:pathData="M35,58 C35,63 40,66 45,66 L45,69 L50,65 L45,61 L45,64 C41,64 38,62 38,58 Z" />
+
+</vector>
